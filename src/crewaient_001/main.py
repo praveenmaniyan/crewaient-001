@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 import sys
-from trending_technology_market_news_in_html_format.crew import TrendingTechnologyMarketNewsInHtmlFormatCrew
+from crewaient_001.crew import TrendingTechnologyMarketNewsInHtmlFormatCrew
 
 # This main file is intended to be a way for your to run your
 # crew locally, so refrain from adding unnecessary logic into this file.

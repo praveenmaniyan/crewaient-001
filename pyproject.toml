@@ -1,7 +1,7 @@
 [project]
-name = "trending_technology_market_news_in_html_format"
+name = "crewaient-001"
 version = "0.1.0"
-description = "trending_technology_market_news_in_html_format using crewAI"
+description = "crewaient-001 using crewAI"
 authors = [{ name = "Your Name", email = "you@example.com" }]
 requires-python = ">=3.10,<=3.13"
 dependencies = [
@@ -9,11 +9,11 @@ dependencies = [
 ]
 
 [project.scripts]
-trending_technology_market_news_in_html_format = "trending_technology_market_news_in_html_format.main:run"
-run_crew = "trending_technology_market_news_in_html_format.main:run"
-train = "trending_technology_market_news_in_html_format.main:train"
-replay = "trending_technology_market_news_in_html_format.main:replay"
-test = "trending_technology_market_news_in_html_format.main:test"
+crewaient-001 = "crewaient-001.main:run"
+run_crew = "crewaient-001.main:run"
+train = "crewaient-001.main:train"
+replay = "crewaient-001.main:replay"
+test = "crewaient-001.main:test"
 
 [build-system]
 requires = ["hatchling"]
